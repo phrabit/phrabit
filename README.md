@@ -9,7 +9,10 @@
 <br>
 
 ## 🎉 How to Reach Me @suhoLee
-- 💌 phrabit@gmail.com<br><br>
+<a href="https://velog.io/@zaman17"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@phrabit"/></a><br>
+<a href="mailto:leegm17@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=phrabit@gmail.com"/></a>
+
+
 <!--
 ## 🎈 Projects
 |Period|Name|Description|Role|
