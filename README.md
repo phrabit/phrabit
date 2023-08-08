@@ -19,8 +19,6 @@
 |2022.01 ~ 2022.02|[당당!](https://github.com/HyeIn-Kim/dangdang)|WebRTC를 활용한 면접 스터디 플랫폼|Team Leader, Frontend Developer|
 -->
 
-<br>
-
 ## 🛠 Tech Stacks
 ### Tech Stacks that I've focused on now 
 <p>
