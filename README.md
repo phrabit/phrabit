@@ -58,6 +58,7 @@
 
 -->
 
+<!--
 ## ✏️ ~ing
 |Date|Description|
 |--|--|
@@ -72,6 +73,7 @@
 |:--:|:--:|
 |[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suho3813)](https://solved.ac/suho3813/)|![mazandi profile](http://mazandi.herokuapp.com/api?handle=suho3813&theme=cold)|
 <br>
+-->
 
 ## 🏃‍ About Github
 |Github Stats|Languages|
