@@ -4,7 +4,7 @@
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fphrabit&count_bg=%23A6C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 </p>
 
-<p align="center"><b>As a 3rd grade in ITM major & Digital Finance Expert,</b><br>I always consider both user and team, and strongly believe my consistency. 📚✨</p>
+<p align="center"><b>As a Senior in ITM major & Digital Finance Expert,</b><br>I always consider both user and team, and strongly believe my consistency. 📚✨</p>
 
 <br>
 
