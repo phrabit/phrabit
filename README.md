@@ -22,6 +22,7 @@
 |2022.01 ~ 2022.02|[당당!](https://github.com/HyeIn-Kim/dangdang)|WebRTC를 활용한 면접 스터디 플랫폼|Team Leader, Frontend Developer|
 -->
 
+
 ## 🛠 Tech Stacks
 ### Tech Stacks that I've focused on now 
 <p>
@@ -67,13 +68,13 @@
 |2023.08.19|AdSP|
 
 <br>
-
+-->
 ## 📚‍ Algorithm - BOJ
 |Solved.ac|Bricks|
 |:--:|:--:|
 |[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suho3813)](https://solved.ac/suho3813/)|![mazandi profile](http://mazandi.herokuapp.com/api?handle=suho3813&theme=cold)|
 <br>
--->
+
 
 ## 🏃‍ About Github
 |Github Stats|Languages|
